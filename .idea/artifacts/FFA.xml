@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FFA">
+    <output-path>$USER_HOME$/Desktop/Cosas Minecraft Servers/Servidores/TestPlugin/plugins</output-path>
+    <root id="archive" name="FFA.jar">
+      <element id="module-output" name="FFA" />
+    </root>
+  </artifact>
+</component>
